@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1cc788dcf96fdd757640e049c508fc47",
+    "revision": "24883cf1c233c6c64726cc328c89a04b",
     "url": "/master-zaim/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/master-zaim/static/css/2.bd130a2f.chunk.css"
   },
   {
-    "revision": "9d021e6538741f043b72",
+    "revision": "b2111df8abbd4abf7657",
     "url": "/master-zaim/static/css/main.b64a6ac4.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/master-zaim/static/js/2.8230a0d8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9d021e6538741f043b72",
-    "url": "/master-zaim/static/js/main.2f536cf5.chunk.js"
+    "revision": "b2111df8abbd4abf7657",
+    "url": "/master-zaim/static/js/main.e5548cca.chunk.js"
   },
   {
     "revision": "c1ef1f97484a74163a2d",
